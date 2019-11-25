@@ -14,5 +14,6 @@ washington.csv
 new_york_city.csv
 
 ### Credits
-credit to udacity programming for data sciece course resources 
+credit to udacity programming for data sciece course resources
+credit to divvy bikeshare project for the data 
 
