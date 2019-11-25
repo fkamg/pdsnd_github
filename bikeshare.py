@@ -21,8 +21,8 @@ def get_filters():
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     my_list=['chicago','new york','washington']
     while 1:
-        city=input('Type the city you want to explore( chicago,new york or washington):')
-        city=city.lower()
+        city=input('Type the city you want to explore( chicago,new york or washington):').lower()
+        #city=city.lower()
         if city in my_list:
             break
     # TO DO: get user input for month (all, january, february, ... , june)
