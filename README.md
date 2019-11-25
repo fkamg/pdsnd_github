@@ -5,8 +5,9 @@ Monday 25/11/2019 19:12:45
 Bikeshare project
 
 ### Description
+
 its about the bikeshare for chicago, washington and new yor city.
-Analysing information which includes the popular trips, stations, age etc
+Analysing information which includes the popular trips, stations,day,hour, age etc
 
 ### Files used
 chicago.csv
